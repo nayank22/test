@@ -2441,6 +2441,8 @@ nav {
     color: rgba(255, 255, 255, 0.6);
     transition: all 0.3s ease;
     border: 1px solid rgba(255, 255, 255, 0.06);
+    /* gap: 12px; */
+    margin-left: 15px;
 }
 
 .social-link:hover {
